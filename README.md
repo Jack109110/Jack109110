@@ -1,4 +1,4 @@
-<img src="https://github.com/Jack109110/Jack109110/blob/main/banner.png" height="232"/>
+<img src="https://github.com/Jack109110/Jack109110/blob/main/banner.png" height="132"/>
 <!--
 **Jack109110/Jack109110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
