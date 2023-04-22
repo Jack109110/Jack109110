@@ -8,7 +8,7 @@
 
 <img src="https://github.com/vermontt/vermontt/blob/main/images/python_icon.svg" width="50" height="50"/> <img src="https://github.com/vermontt/vermontt/blob/main/images/pycharm.svg" width="50" height="50"/>
 
-## My projects
+## My java projects
 :point_right: [base_java](https://github.com/vermontt/base_java_examples) shows knowledge of Core Java
 
  &emsp; :point_right: [ui_tests](https://github.com/vermontt/wildberries_ui_tests) shows the skills of creating UI tests
