@@ -21,4 +21,6 @@
 
 ## My python projects
 
-:open_file_folder: [base_python](https://github.com/vermontt/base_java_examples) shows knowledge of api python
+:snake: [base_python](https://github.com/vermontt/base_python) shows base work skills
+
+&emsp; :snake: [api_python](https://github.com/vermontt/python_example_api_tests) shows the skills of creating API tests
