@@ -16,3 +16,5 @@
  &emsp;  &emsp; :point_right: [api_tests](https://github.com/vermontt/petstore_api_tests) shows the skills of creating API tests
 
 &emsp;  &emsp; &emsp; :point_right: [database_tests](https://github.com/vermontt/jdbc_tests) shows the skills of working with databases
+
+&emsp;  &emsp; &emsp; &emsp; :point_right: [spring_boot_app](https://github.com/vermontt/owl-app) my pet project on Spring Boot
