@@ -18,3 +18,7 @@
 &emsp;  &emsp; &emsp; :point_right: [database_tests](https://github.com/vermontt/jdbc_tests) shows the skills of working with databases
 
 &emsp;  &emsp; &emsp; &emsp; :point_right: [spring_boot_app](https://github.com/vermontt/owl-app) my pet project on Spring Boot
+
+## My python projects
+
+:point_right: [base_python](https://github.com/vermontt/base_java_examples) shows knowledge of api python
