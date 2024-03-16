@@ -21,4 +21,4 @@
 
 ## My python projects
 
-&emsp; &emsp;  &emsp; &emsp; &emsp; :point_right: [base_python](https://github.com/vermontt/base_java_examples) shows knowledge of api python
+:open_file_folder: [base_python](https://github.com/vermontt/base_java_examples) shows knowledge of api python
